@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+  <h2> Greetings Everyone! </h2>
+  <h1> This is Tarrega's Website. </h1>
+  <h3> APCSP 1-2, 2020-2021 </h3>
+</body>
+  
+<body style="background-color:black;">
+//borrowed from w3 school html
+
+<p> This website is to showcase what I learned in class, and also to tell you more about myself.</p>
+
+</body>
+  
+</html>
+
+
+
+h2 {
+  color: green;
+  font-size: 55px;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-size: 80px;
+  text-align: center;
+  background-color: green;
+}
+
+h3 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  color: green;
+  text-align: center;
+}
